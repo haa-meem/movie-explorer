@@ -4,7 +4,11 @@ Movie Explorer is a simple movie and TV show browsing application built with Rea
 
 ## 🌐 Live Demo
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://movie-explorer-rho-topaz.vercel.app/)
+
 ## 📂 GitHub Repository
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge)](https://github.com/haa-meem/movie-explorer)
 
 ## ✨ Features
 
@@ -35,6 +39,7 @@ Movie Explorer is a simple movie and TV show browsing application built with Rea
 - DaisyUI
 - JavaScript
 - TVMaze API
+- Vercel
 
 ## 🔗 API
 

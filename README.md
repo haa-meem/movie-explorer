@@ -58,7 +58,7 @@ This project uses the [TVMaze API](https://www.tvmaze.com/api).
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+[git clone YOUR_GITHUB_REPOSITORY_URL](https://github.com/haa-meem/movie-explorer.git)
 ```
 
 ### 2. Go to the project folder
